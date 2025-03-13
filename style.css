@@ -12,14 +12,10 @@ body {
   background-color: hsl(212, 45%, 89%);
   min-height: 100dvh;
   place-content: center;
-  place-items: center;
-
-  main {
-    place-items: center;
-  }
 }
 
 .qr-container {
+  margin: 0 auto;
   max-width: 320px;
   background-color: #fff;
   padding: 1rem;
